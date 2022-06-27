@@ -7,3 +7,21 @@ input{
   margin: 5px;
 }
 
+.boton{
+  margin-top: 50px;
+}
+
+.bg-yellow {
+  background: yellow;
+}
+
+.bg-gray {
+  background: gray;
+}
+
+.bulb {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-left: 350px;
+}
